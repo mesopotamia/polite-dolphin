@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Azimuth",
-    "logo_img": "/images/asset-1.svg",
+    "logo_img": "/images/logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
